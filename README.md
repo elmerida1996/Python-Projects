@@ -5,5 +5,7 @@ A collection of projects completed during my python class
 
 -Project 2: This code takes two numbers from user and print all the odd numbers between them
 
--This code prints the multiplication table up ro 10
+-Project 3:This code prints the multiplication table up ro 10
+
+-Project 4:This code multiplies two numbers using function
 
